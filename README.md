@@ -1,5 +1,5 @@
 Studying Computer Scinece at University of Information Technology
-Went to Luong The Vinh High School for the gifted
+// Went to Luong The Vinh High School for the gifted
 
 
 ## 🌐Socials
